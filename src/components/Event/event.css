@@ -1,0 +1,32 @@
+.body{
+    margin-left: 30px;
+    margin-right: 30px;
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    height: 50px;
+    border: 2px solid rgba(0, 0, 0, 0.04);
+ 
+}
+
+.create-event{
+    display: flex;  
+}
+.create-event h2{
+  color: rgb(3, 156, 105);
+  position: relative;
+  top: -6px;
+}
+
+.btn{
+    position: relative;
+    left:990px;
+    top: 10px;
+    height: 30px;
+    width: 70px; 
+}
+
+#btn{
+    background-color: teal;
+    color: white;
+    margin-right: 10px;
+}
